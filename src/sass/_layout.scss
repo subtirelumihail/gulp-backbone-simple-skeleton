@@ -1,0 +1,9 @@
+body {
+  background-color: #DAD6CA;
+  color: #563444;
+}
+
+.container {
+  @include container(1120px);
+  text-align: center;
+}
