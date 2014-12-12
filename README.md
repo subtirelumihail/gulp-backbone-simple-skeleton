@@ -62,17 +62,3 @@ To <b>clean</b> the build folder
 ```
 gulp clean
 ```
-
-###Server deployment
-
-To deploy on the server use:
-
-```
-npm run start
-```
-
-To dev on the server user
-
-```
-npm run dev
-```

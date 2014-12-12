@@ -43,11 +43,6 @@
     "wiredep": "^2.1.0",
     "yargs": "^1.3.3"
   },
-  "scripts": {
-    "bower-run": "node_modules/.bin/bower install",
-    "gulp-build": "node_modules/.bin/gulp --production",
-    "start": "npm run gulp-build",
-    "dev": "node_modules/.bin/gulp"
-  },
+  "scripts": {},
   "author": "Subtirelu Mihail"
 }
